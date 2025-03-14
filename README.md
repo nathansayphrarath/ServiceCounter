@@ -1,3 +1,3 @@
 # ServiceCounter
 
-This is an app that customers will use for the WACTC Garage.
+This is the code that I have made for the WACTC Garage.
